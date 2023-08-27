@@ -575,10 +575,10 @@ nav {
 /* foooter */
 
 .footer_img {
-  background-image: url("footer.jpg");
+/*   background-image: url("footer.jpg");
   background-repeat: no-repeat;
-  background-position-x: center;
-  /* background-color: #000; */
+  background-position-x: center; */
+  background-color: #000;
   width: 100%;
   height: auto;
 }
