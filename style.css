@@ -103,7 +103,7 @@ nav {
 
 .nav-link {
   color: #ffffff;
-  text-transform: capitaliz;
+  text-transform: capitalize;
   transition: all 0.2s;
   font-weight: 400px;
   font-size: 20px;
