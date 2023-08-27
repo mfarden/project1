@@ -1,3 +1,4 @@
+
 .top_meun {
   background-color: black;
 }
@@ -5,7 +6,6 @@
 
 
 .topbar {
-  
   width: auto;
   height: auto;
   background-color: #000;
@@ -91,7 +91,6 @@ nav {
 }
 
 .nav-item .nav-link {
-
   font-family: Helvetica;
   list-style: none;
 }
@@ -104,7 +103,7 @@ nav {
 
 .nav-link {
   color: #ffffff;
-  text-transform: uppercase;
+  text-transform: capitaliz;
   transition: all 0.2s;
   font-weight: 400px;
   font-size: 20px;
@@ -148,7 +147,6 @@ nav {
   padding: 5px;
   font-weight: 300px;
   color: #f11313;
-
   transition: all 0.5s;
 }
 
@@ -157,9 +155,7 @@ nav {
 }
 
 .navbar-toggler:hover {
-
   color: #f11313;
-
 }
 
 /* banner star */
